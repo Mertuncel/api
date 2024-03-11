@@ -17,6 +17,11 @@ Features:
 * Retrieves a list of cocktails from online data.
 * Presents each cocktail along with its detailed specifications on the screen.
 
+4.Basic Weather Forecast 
+
+* Daily and weekly forecasts
+* Additional details such as perceived temperature, pressure, and humidity
+
 Usage:
 
 1. Clone the repository to your local machine.
